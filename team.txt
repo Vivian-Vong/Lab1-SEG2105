@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Natasha Ivanova
+=======
+Vivian Vong
+>>>>>>> c200e4bab6f6b76f8d47725f4d61f1206cc9ff4a
