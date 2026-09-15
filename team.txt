@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Aryan Chopra
 =======
+Natasha Ivanova
+>>>>>>> 839d810ce08f3f27eba70f2be5766df4bb9031b0
+=======
 Vivian Vong
->>>>>>> c200e4bab6f6b76f8d47725f4d61f1206cc9ff4a
+>>>>>>> c200e4bab6f6b76f8d47725f4d61f1206cc9ff4
+Aryan Chopra
+
